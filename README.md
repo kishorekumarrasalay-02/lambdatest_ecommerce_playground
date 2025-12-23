@@ -119,10 +119,10 @@ pytest --html=reports/report.html
 
 ## 👤 Author
 
-**Kishore Kumar**
+**Kishore Kumar R**
 
-* [LinkedIn Profile](https://www.linkedin.com/)
-* [GitHub Profile](https://github.com/)
+* [LinkedIn Profile](https://www.linkedin.com/in/kishorekumarrasalay/)
+* [Github Profile](https://github.com/kishorekumarrasalay-02)
 
 ---
 
