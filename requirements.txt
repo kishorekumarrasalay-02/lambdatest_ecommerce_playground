@@ -1,0 +1,33 @@
+#plugins
+
+#step 1
+#create new project & install required packages/plugins
+
+pytest
+selenium
+webdriver-manager
+pytest-html
+pytest-xdist
+openpyxl
+allure-pytest
+#all this items will be installed in my project we will get option
+#but iam getting error
+#now to go file-->settings-->projects -->interpretar-->all packages are installed you will see there
+
+
+
+
+#step 2 create folder structure
+
+
+#if we crate package we will maintain only python files
+#if we create directory or folder we will have normal like excel files or text files or report files
+#and test data files
+
+#in the project we will have configuration files we will have a log files all the page objet
+#class or page object ,more models we will create inside the page object package and the report will
+#and the report will be stored reports model folder and all the screens are we will save in the screenshot
+#folder and all the test cases we will write in the test cases packae because test cases are python files
+#and the test data all excel files we will keep inside the test data folder and utilities file slike
+#and the utility files excel file we created right at the time of data driven testing
+#these utility files are.python files and so on

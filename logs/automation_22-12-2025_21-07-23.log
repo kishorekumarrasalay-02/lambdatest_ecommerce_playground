@@ -1,0 +1,15 @@
+22-12-2025 21:07:26 - INFO - Chrome browser launched successfully
+22-12-2025 21:07:26 - INFO - Test passed: test_account_reg_with_error_capture
+22-12-2025 21:08:02 - INFO - Test passed: test_account_reg_with_error_capture
+22-12-2025 21:08:04 - INFO - Chrome browser closed
+22-12-2025 21:08:04 - INFO - Test passed: test_account_reg_with_error_capture
+22-12-2025 21:08:06 - INFO - Chrome browser launched successfully
+22-12-2025 21:08:06 - INFO - Test passed: test_login
+22-12-2025 21:08:24 - INFO - Test passed: test_login
+22-12-2025 21:08:26 - INFO - Chrome browser closed
+22-12-2025 21:08:26 - INFO - Test passed: test_login
+22-12-2025 21:08:28 - INFO - Chrome browser launched successfully
+22-12-2025 21:08:28 - INFO - Test passed: test_open_site
+22-12-2025 21:08:45 - INFO - Test passed: test_open_site
+22-12-2025 21:08:47 - INFO - Chrome browser closed
+22-12-2025 21:08:47 - INFO - Test passed: test_open_site

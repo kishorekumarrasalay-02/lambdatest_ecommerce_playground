@@ -1,0 +1,15 @@
+22-12-2025 20:56:24 - INFO - Chrome browser launched successfully
+22-12-2025 20:56:24 - INFO - Test passed: test_account_reg
+22-12-2025 20:57:01 - ERROR - Test failed: test_account_reg, screenshot saved: reports/test_account_reg_22-12-2025_20-57-01.png
+22-12-2025 20:57:03 - INFO - Chrome browser closed
+22-12-2025 20:57:03 - INFO - Test passed: test_account_reg
+22-12-2025 20:57:05 - INFO - Chrome browser launched successfully
+22-12-2025 20:57:05 - INFO - Test passed: test_login
+22-12-2025 20:57:21 - INFO - Test passed: test_login
+22-12-2025 20:57:23 - INFO - Chrome browser closed
+22-12-2025 20:57:23 - INFO - Test passed: test_login
+22-12-2025 20:57:25 - INFO - Chrome browser launched successfully
+22-12-2025 20:57:25 - INFO - Test passed: test_open_site
+22-12-2025 20:57:34 - INFO - Test passed: test_open_site
+22-12-2025 20:57:36 - INFO - Chrome browser closed
+22-12-2025 20:57:36 - INFO - Test passed: test_open_site

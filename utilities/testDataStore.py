@@ -1,0 +1,6 @@
+
+class TestDataStore:
+    email = ""
+    password = ""
+
+

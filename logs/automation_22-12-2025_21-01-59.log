@@ -1,0 +1,5 @@
+22-12-2025 21:02:02 - INFO - Chrome browser launched successfully
+22-12-2025 21:02:02 - INFO - Test passed: test_account_reg_with_error_capture
+22-12-2025 21:02:26 - ERROR - Test failed: test_account_reg_with_error_capture, screenshot saved: reports/test_account_reg_with_error_capture_22-12-2025_21-02-26.png
+22-12-2025 21:02:29 - INFO - Chrome browser closed
+22-12-2025 21:02:29 - INFO - Test passed: test_account_reg_with_error_capture
