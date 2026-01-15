@@ -121,6 +121,7 @@ pytest --html=reports/report.html
 
 **Kishore Kumar R**
 
+* Phone: +919490946159
 * [LinkedIn Profile](https://www.linkedin.com/in/kishorekumarrasalay/)
 * [Github Profile](https://github.com/kishorekumarrasalay-02)
 
