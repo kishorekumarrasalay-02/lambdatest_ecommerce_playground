@@ -1,4 +1,4 @@
-# 🛒 Lambdatest E-Commerce Playground Automation
+# 🛒 Automation Testing Project Lambdatest E-Commerce Web Application
 
 A robust, scalable, and production-ready Test Automation Framework built using **Python**, **Selenium WebDriver**, and **Pytest**. This project automates the [LambdaTest E-Commerce Playground](https://ecommerce-playground.lambdatest.io/) website to demonstrate modern testing practices.
 
@@ -125,4 +125,3 @@ pytest --html=reports/report.html
 * [Github Profile](https://github.com/kishorekumarrasalay-02)
 
 ---
-
