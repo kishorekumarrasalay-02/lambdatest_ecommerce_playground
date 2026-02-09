@@ -388,8 +388,6 @@ If you encounter any issues or have questions:
 
 ---
 
-## 🔄 Changelog
-
 ### Version 1.0.0 (Current)
 - ✅ Initial framework setup
 - ✅ Page Object Model implementation
