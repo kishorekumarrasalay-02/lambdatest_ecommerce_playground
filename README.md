@@ -365,8 +365,6 @@ Contributions are welcome! Please follow these guidelines:
 
 **Kishore Kumar R**
 
----
-
 📞 **Mobile:** +91-9490946159  
 📧 **Email:** kishorekumarrasalay05@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/kishorekumarrasalay](https://linkedin.com/in/kishorekumarrasalay)  
