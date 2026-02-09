@@ -365,10 +365,10 @@ Contributions are welcome! Please follow these guidelines:
 
 **Kishore Kumar R**
 
-- 📧 Email: [Contact via E-mail](https://github.com/kishorekumarrasalay-02)
-- 📞 Phone: +91 9490946159
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/kishore-kumar-rasalay)
-- 🐙 GitHub: [@kishorekumarrasalay-02](https://github.com/kishorekumarrasalay-02)
+- 📧 Email: Have a project idea or collaboration in mind? [Drop me a message] [Contact via E-mail](https://github.com/kishorekumarrasalay-02)
+- 📞 Phone: +91-9490946159
+- 💼 LinkedIn: Let's connect professionally:  [Connect with me](https://www.linkedin.com/in/kishore-kumar-rasalay)
+- 🐙 GitHub:  Explore my code and contributions:  [@kishorekumarrasalay-02](https://github.com/kishorekumarrasalay-02)
 
 ---
 
