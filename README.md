@@ -367,11 +367,11 @@ Contributions are welcome! Please follow these guidelines:
 
 ---
 
-- **📧 Email** - Have a project idea or collaboration in mind? [Drop me a message](https://github.com/kishorekumarrasalay-02)
-- **📞 Phone** - Prefer a quick call? Reach me at +91 9490946159
-- **💼 LinkedIn** - Let's connect professionally: [View my profile](https://www.linkedin.com/in/kishore-kumar-rasalay)
-- **🐙 GitHub** - Explore my code and contributions: [@kishorekumarrasalay-02](https://github.com/kishorekumarrasalay-02)
-- 
+📞 **Mobile:** +91-9490946159  
+📧 **Email:** kishorekumarrasalay05@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/kishorekumarrasalay](https://linkedin.com/in/kishorekumarrasalay)  
+🐙 **GitHub:** [github.com/kishorekumarrasalay-02](https://github.com/kishorekumarrasalay-02)
+
 ---
 
 ## 📄 License
