@@ -363,7 +363,7 @@ Contributions are welcome! Please follow these guidelines:
 
 ## 👨‍💻 Author
 
-**Kishore Kumar Rasalay**
+**Kishore Kumar R**
 
 - 📧 Email: [Contact via GitHub](https://github.com/kishorekumarrasalay-02)
 - 📞 Phone: +91 9490946159
@@ -375,15 +375,6 @@ Contributions are welcome! Please follow these guidelines:
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- LambdaTest for providing the E-Commerce Playground application
-- Selenium community for excellent documentation
-- Pytest community for the robust testing framework
-- All contributors who help improve this project
 
 ---
 
@@ -408,30 +399,8 @@ If you encounter any issues or have questions:
 - ✅ Logging mechanism
 - ✅ Screenshot capture on failure
 
-### Upcoming Features
-- 🚧 Allure reporting integration
-- 🚧 Parallel test execution
-- 🚧 CI/CD pipeline integration (Jenkins/GitHub Actions)
-- 🚧 Database validation
-- 🚧 API testing integration
-
----
-
-## 🎓 Learning Resources
-
-If you're new to test automation, check out these resources:
-
-- [Selenium Documentation](https://www.selenium.dev/documentation/)
-- [Pytest Documentation](https://docs.pytest.org/)
-- [Page Object Model Pattern](https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/)
-- [Python Tutorial](https://www.python.org/about/gettingstarted/)
-
----
-
 <div align="center">
 
 **⭐ If you find this project useful, please consider giving it a star! ⭐**
-
-Made with ❤️ by Kishore Kumar Rasalay
 
 </div>
